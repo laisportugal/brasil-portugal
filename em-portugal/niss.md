@@ -29,3 +29,5 @@ O que é preciso.
 3. Com isso a pessoa no balcão da segurança social vai lançar todos os teus dados no sistema e você deverá sair de lá com seu número de NISS
 4. Antes de te liberar a pessoa no balcão vai pedir para você validar todos os dados inseridos no sistema, veja com atenção todos os dados incluindo os dados de email e telefone, eles serão necessários no próximo passo.
 5. Depois é só ir ao <a href="https://app.seg-social.pt/sso/login?service=https%3A%2F%2Fapp.seg-social.pt%2Fptss%2Fcaslogin">portal da segurança social direta</a> e efetuar o registo. Um token será enviado para o número de telemóvel que você escreveu formulário e que foi inserido no sistema. 
+
+A forma de fazer o pedido do NISS foi alterada novamente e ficou ainda mais fácil. Para fazer o pedido, basta acessar o site https://www.seg-social.pt/pedido-de-formulario-niss-cidadao-estrangeiro, preencher o formulário de acordo com as instruções do site https://www.seg-social.pt/documents/10152/16649843/1010-+Atribui%C3%A7%C3%A3o+de+NISS+NA+HORA+a+Cidad%C3%A3os+Estrangeiros/3233a29f-e35a-4449-84cd-bb6bd926e56a e aguardar o retorno da Segurança Social por e-mail .
